@@ -3,7 +3,15 @@
 I am an OMSCS (Online Master of Science in Computer Science) student at Georgia Tech.
 I pursue the Computational Percetion and Robotics specialization.
 
-I have been working full time as an algorithm engineer in computer vision since 2018.
+I have been working full time as a computer vision algorithm developer since 2018.
+
+Im interested in the fields of Vision-Aided Navigation, SLAM and 3D Reconstruction.
+
+I hold a B.Sc in Electrical Engineering and an MBA with IT focus. 
+
+Find me also on LinkedIn: 
+https://www.linkedin.com/in/dan-barladeanu-815594151/
+
 
 
 <!--
