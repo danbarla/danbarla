@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dan Barladeanu
 
-I am an OMSCS (Online Master of Science in Computer Science) student at Georgia Tech.
+I am an OMSCS (Online Master of Science in Computer Science) student at Georgia Tech.  
 I pursue the Computational Percetion and Robotics specialization.
 
 I have been working full time as a computer vision algorithm developer since 2018.
