@@ -11,7 +11,7 @@ I hold a B.Sc in Electrical Engineering and an MBA with IT focus.
 
 Find me also on LinkedIn:
 
-[[[linkedin.png|width=50px]]][1]
+[[[https://github.com/danbarla/danbarla/linkedin.png|width=50px]]][1]
 
 [1]: https://www.linkedin.com/in/dan-barladeanu-815594151/
 
