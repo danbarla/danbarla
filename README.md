@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Dan Barladeanu
+
+I am an OMSCS (Online Master of Science in Computer Science) student at Georgia Tech.
+I pursue the Computational Percetion and Robotics specialization.
+
+I have been working full time as an algorithm engineer in computer vision since 2018.
+
 
 <!--
 **danbarla/danbarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
