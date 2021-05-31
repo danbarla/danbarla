@@ -10,7 +10,8 @@ Im interested in the fields of Vision-Aided Navigation, SLAM and 3D Reconstructi
 I hold a B.Sc in Electrical Engineering and an MBA with IT focus. 
 
 Find me also on LinkedIn: 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
 https://www.linkedin.com/in/dan-barladeanu-815594151/
 
 
