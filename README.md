@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Dan Barladeanu
 
-[<img align="right" width="100" height="100" src="http://github.com/danbarla/danbarla/omscs.jpeg">][3]
+#<img align="right" width="100" height="100" src="http://github.com/danbarla/danbarla/omscs.jpeg">
+[![im2](http://github.com/danbarla/danbarla/omscs.jpeg)][3]
 
 I am an OMSCS (Online Master of Science in Computer Science) student at Georgia Tech.  
 I pursue the Computational Percetion and Robotics specialization.
