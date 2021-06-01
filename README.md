@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dan Barladeanu
 
-[![im2](http://github.com/danbarla/danbarla/omscs.jpeg)]{:style="float: right;margin-right: 7px;margin-top: 7px;"}[3]
+#<img align="right" width="100" height="100" src="http://github.com/danbarla/danbarla/omscs.jpeg">
 
 I am an OMSCS (Online Master of Science in Computer Science) student at Georgia Tech.  
 I pursue the Computational Percetion and Robotics specialization.
@@ -19,12 +19,12 @@ I hold a B.Sc in Electrical Engineering and an MBA with IT focus.
 
 [![im1](https://github.com/danbarla/danbarla/blob/main/linkedin.png)][1]
 
+#### More info on OMSCS:  [Link][3]
+
 [1]: https://www.linkedin.com/in/dan-barladeanu-815594151/
 [2]: https://indelman.github.io/ANPL-Website/Publications/Indelman11aerospace.pdf
 [3]: https://omscs.gatech.edu/
 
-
-#<img align="right" width="100" height="100" src="http://github.com/danbarla/danbarla/omscs.jpeg">
 <!--
 **danbarla/danbarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
