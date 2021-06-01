@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dan Barladeanu
 
-<img align="right" width="100" height="100" src="http://github.com/danbarla/danbarla/omscs.jpeg">(https://omscs.gatech.edu/)
+[<img align="right" width="100" height="100" src="http://github.com/danbarla/danbarla/omscs.jpeg">][3]
 
 I am an OMSCS (Online Master of Science in Computer Science) student at Georgia Tech.  
 I pursue the Computational Percetion and Robotics specialization.
@@ -21,6 +21,7 @@ I hold a B.Sc in Electrical Engineering and an MBA with IT focus.
 
 [1]: https://www.linkedin.com/in/dan-barladeanu-815594151/
 [2]: https://indelman.github.io/ANPL-Website/Publications/Indelman11aerospace.pdf
+[3]: https://omscs.gatech.edu/
 
 
 
